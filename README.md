@@ -18,6 +18,9 @@ Video explicando la historia: https://youtu.be/Y-y5YhrRXEg
 Gameplay: https://youtu.be/jiJIhrLadVI
 
 Documental detallado (Es de una hora, bueno para escuchar en background): https://youtu.be/_7X6Yeydgyg
+
+![image](https://user-images.githubusercontent.com/30907667/132741084-8101c9f5-3008-4d3b-8ae1-b7316495eeee.png)
+
     
     
     P̶̧̥̬̫̏̆̋̈́̄͒̄̅͗͗̉͐Ò̸̞̘͚̃̿͒̎͆̋̇̋̏́̓͘͘͝L̶̡̛̥̝̝̗̻̝͔̬̝̭̝̈̏̾̔͋̍͐̊̐̒͛̐̕͠Y̴̛̗̳̣̭̗̍̈́͂̀̔̈́͝B̵͙̙͆̽̃̽͘I̴̢̞̦̯͕͇̟͎̦̰̥͍̤͍̋͂̎̆̈́̀͋̾̃͌̊̈́͗͜Ǘ̵̠̟̮̝̀̌̍̊̊S̶̛̭͕̈́̆̋̄̽͆̿̆͗
