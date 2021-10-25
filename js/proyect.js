@@ -28,5 +28,5 @@ function loadGame(){
 }
 
 window.onload = function(){
-    leadGame()
+    loadGame()
 }
